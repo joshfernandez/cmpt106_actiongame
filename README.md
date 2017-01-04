@@ -1,4 +1,5 @@
-# CMPT 106 Group Project - Tom's Cave Escape (A 3D Cave Escape Action-Genre Game)
+# CMPT 106 Group Project - Tom's Cave Escape 
+### A 3D Cave Escape Action-Genre Game
 
 A three-dimensional game in a group of 7 people using the Unity and Blender programs to generate a virtual reality shooting experience for my CMPT 106 (Applied Science, Technology, and Society) class.
 
