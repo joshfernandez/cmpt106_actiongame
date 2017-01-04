@@ -8,3 +8,5 @@ Additional responsibilities included:
 * Sculpting and designing models using the Blender modelling program to feature various character, enemy, weapon and cave assets for the game
 * Implementing character animations using Blender's animation tools to display real-life movements such as walking, running, jumping, and dying
 * Collaborating with members by importing files and documents through the Google Drive cloud platform to organize responsibilities for modelling, sculpting, and visual/sound effects
+
+The project is not available here. However, a more elaborate description of features and functionalities of the game can be found in these documents. If you are interested, **please download them.**
